@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off z "Projekt: Blog"</title>
+    </head>
+    <style>
+    .style1 {
+        color:rgb(0,400,130);
+        background-color:Yellow;
+        font-family: "cursive", sans-serif;
+    }
+    
+    .hiszpania{
+        color:rgb(255, 0, 0);
+        background-color:rgb(255, 153, 0);
+    }
+    .wstep{
+        color:rgb(138, 5, 255);
+    }
+    body {
+            background-color:rgb(219, 204, 164);
+        }
+    .rozwiniecie{
+        color:rgb(0, 38, 189);
+    }
+    .zakonczenie{
+        color:rgb(255, 255, 255);
+    }
+    .font_powodow {
+            font-family: "Georgia", "Palatino", serif;
+        }
+    
+    .font_zakonczenia {
+            font-family: "Georgia", "Palatino", sans-serif;
+            color:rgb(217, 100, 217);
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <body>
+    
+        <h1 class="style1">Bogdan's blog</h1>
+    
+        <h2 class="hiszpania">Hiszpania</h2>
+        <h3><em>Plan blogu : </em></h3>
+        <ul>
+            <li>Wstep</li>
+            <li>Rozwiniecie</li>
+            <li>Zakonczenie</li>
+        </ul>
+        
+        <h2 class="wstep">wstep</h2>
+        <p>Yo hablo un poco de espanol a wiec cos napsize <br>
+            zmienie linijke bo tak 99999933333<br>
+            jest pieknie polska awansuje na baraze (moze)
+            
+        </p>
+        
+        <h3 class="font_powodow">powody dla ktorych polska miala by nie wygrac mundialu :</h3>
+    <ol>
+        <li>__________ </li>
+        <li>___________</li>
+        <li>____________</li>
+        <li>_____________</li>
+        
+        
+        </ol>
+        
+         <h2 class="rozwiniecie">rozwiniecie</h2>
+         <p class="teks_rozwiniecie">Moze wygramy baraze , sa plusy barazy w postaci wiekszej ilosci meczow <br>
+         bedzie co ogladac na wiosne<br></p>
+         <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/clouds-from-plane.png" width="550" height="200"  >
+         
+         <p><em><strong>VeB</strong> -</em>Viva el Barca</p>
+             
+    <h2 class="zakonczenie">zakonczenie</h2>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/crop-circle.png" width="300" height="210" style="float: left">
+    <p class="font_zakonczenia"> Budynki Gaudíego są częścią historii miasta; warto traktować je nie tylko jako pojedyncze atrakcje, ale jako <s>integralną składową</s> pejzażu miejskiego. Zwiedzając dzieła powstałe w różnych latach działalności artysty, będziesz w stanie zauważyć,<u> jak ewoluował jego styl.</u> Zwłaszcza późniejsze prace artysty — wyróżniające się organicznymi formami inspirowanymi światem natury</p>
+         
+    </body>
+</html>
